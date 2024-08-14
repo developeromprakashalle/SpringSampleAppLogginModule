@@ -1,0 +1,12 @@
+2024-08-14T06:38:03.467+04:00  INFO 5936 --- [sampleSpring] [main] c.e.s.SampleSpringApplication            : Starting SampleSpringApplication using Java 17.0.11 with PID 5936 (C:\27JRTP\SpringSampleApp\sampleSpring\sampleSpring\build\classes\java\main started by allea in C:\27JRTP\SpringSampleApp)
+2024-08-14T06:38:03.481+04:00  INFO 5936 --- [sampleSpring] [main] c.e.s.SampleSpringApplication            : No active profile set, falling back to 1 default profile: "default"
+2024-08-14T06:38:05.716+04:00  INFO 5936 --- [sampleSpring] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-14T06:38:05.763+04:00  INFO 5936 --- [sampleSpring] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-14T06:38:05.763+04:00  INFO 5936 --- [sampleSpring] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-14T06:38:05.904+04:00  INFO 5936 --- [sampleSpring] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-14T06:38:05.904+04:00  INFO 5936 --- [sampleSpring] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2303 ms
+2024-08-14T06:38:06.764+04:00  INFO 5936 --- [sampleSpring] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-14T06:38:06.779+04:00  INFO 5936 --- [sampleSpring] [main] c.e.s.SampleSpringApplication            : Started SampleSpringApplication in 4.231 seconds (process running for 4.89)
+2024-08-14T06:46:35.588+04:00  INFO 5936 --- [sampleSpring] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-14T06:46:35.588+04:00  INFO 5936 --- [sampleSpring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-14T06:46:35.602+04:00  INFO 5936 --- [sampleSpring] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
